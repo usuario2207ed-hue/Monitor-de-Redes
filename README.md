@@ -50,7 +50,7 @@ Pode ser usado direto no navegador ou instalado como um **aplicativo** no celula
 
 ### 🚀 Como usar
 1. Acesse o app neste link:  
-   👉 https://usuario2207ed-hue.github.io/EDCELL-TECH/ 
+   👉 https://usuario2207ed-hue.github.io/Monitor-de-Redes/
 
 2. No navegador do **celular (Chrome/Edge)**:  
    - Abra o menu (⋮)  
